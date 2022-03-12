@@ -102,7 +102,6 @@
 }
 
 .u-section-1 .u-custom-html-1 {
-  height: auto;
   min-height: 66px;
   margin-top: 0;
   margin-bottom: 0;
@@ -110,14 +109,12 @@
 
 .u-section-1 .u-custom-html-2 {
   margin-top: 58px;
-  height: auto;
   min-height: 190px;
   margin-bottom: 0;
 }
 
 .u-section-1 .u-custom-html-3 {
   margin-top: 78px;
-  height: auto;
   min-height: 190px;
   margin-bottom: 0;
 }
@@ -172,6 +169,18 @@
 
   .u-section-1 .u-group-1 {
     width: 940px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    height: auto;
+  }
+
+  .u-section-1 .u-custom-html-2 {
+    height: auto;
+  }
+
+  .u-section-1 .u-custom-html-3 {
+    height: auto;
   }
 
   .u-section-1 .u-btn-2 {
